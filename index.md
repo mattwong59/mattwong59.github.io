@@ -73,11 +73,11 @@
 
     <section>
         <h3>Education</h3>
-        <h6>Lighthouse Labs</h6>
-        <h5>Web Development Bootcamp 2018</h5></br>
-        <h6>Simon Fraser University</h6>
-        <h5>Bachelor of Arts 2010</h5>
-        <p>Major: English Literature, Minor: Geography</p>
+        <p><strong>Lighthouse Labs</strong></p>
+        <p>Web Development Bootcamp 2018</p>
+        <p><strong>Simon Fraser University</strong</p>
+        <p>Bachelor of Arts 2010</p>
+        <p><em>Major: English Literature, Minor: Geography</em></p>
     </section>
 
     <section>
