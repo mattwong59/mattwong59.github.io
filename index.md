@@ -1,11 +1,13 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Matt Wong</title>
+    <title>Matt Wog</title>
 </head>
 <body>
     <h1>Matt Wong</h1>
-
+</body>
+</html>
+    
     <section>
         <h3>Summary</h3>
         <p>ESL Teacher turned Project Manager in construction turned Web Developer, eager to start constructing web apps. Passionate about problem solving, learning, and helping others however I can. I like to balance my love for coding and video games with staying active, whether it be hiking, snowboarding or surviving an intense hot yoga session. </p>
@@ -92,5 +94,3 @@
         <h3>Activities</h3>
     </section>
 
-</body>
-</html>
