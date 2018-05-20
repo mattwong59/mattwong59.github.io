@@ -14,13 +14,13 @@ GitHub: [mattwong59](https://github.com/mattwong59)<br/>
 <a href="https://github.com/mattwong59/chatty-app">Chatty App</a>
 <p>A messaging web app that utilizes React, WebSockets, and Express.</p><br/>
 
-[Decider](https://github.com/mattwong59/decider_midterm) 
+<a href="https://github.com/mattwong59/decider_midterm">Decider</a>
 <p>Decider is a web app that utilizes Node, Express, EJS, Postgresql, SASS, AJAX, Twilio, Mailgun, and Awesome-Phone Number.</p><br/>
 
-[Tweeter](https://github.com/mattwong59/tweeter) 
+<a href="https://github.com/mattwong59/tweeter">Tweeter</a> 
 <p>A twitter clone that utilizes HTML, CSS, JS, jQuery and AJAX on the front-end, as well as Node, Express and MongoDB on the back-end.</p><br/>
 
-[Tiny App](https://github.com/mattwong59/tinyApp) 
+<a href="https://github.com/mattwong59/tinyApp">Tiny App</a>
 <p>TinyApp is a full stack web application built with Node and Express that allows users to shorten URLs.</p>
 
 <h2>Skills</h2>
