@@ -11,7 +11,7 @@ LinkedIn: [mattwong59](https://www.linkedin.com/in/mattwong59/)
 GitHub: [mattwong59](https://github.com/mattwong59)
 
 <h2>Projects</h2>
-[Jungle](https://github.com/mattwong59/jungle-rails)
+[Jungle](https://github.com/mattwong59/jungle-rails) An e-commerce Rails app built for learning Rails through example.
 [Chatty App](https://github.com/mattwong59/chatty-app)
 [Decider](https://github.com/mattwong59/decider_midterm)
 [Tweeter](https://github.com/mattwong59/tweeter)
