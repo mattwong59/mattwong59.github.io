@@ -16,12 +16,6 @@ GitHub: [mattwong59](https://github.com/mattwong59)
 [Decider](https://github.com/mattwong59/decider_midterm)
 [Tweeter](https://github.com/mattwong59/tweeter)
 [Tiny App](https://github.com/mattwong59/tinyApp)
-<a href="https://github.com/mattwong59/jungle-rails" target="blank">Jungle</a>
-<a href="https://github.com/mattwong59/chatty-app" target="blank">Chatty App</a>
-<a href="https://github.com/mattwong59/decider_midterm" target="blank">Decider</a>
-<a href="https://github.com/mattwong59/tweeter" target="blank">Tweeter</a>
-<a href="https://github.com/mattwong59/tinyApp" target="blank">Tiny App</a>
-<!-- <html>
 
     <section>
         <h3>Contact</h3>
