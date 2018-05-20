@@ -1,7 +1,9 @@
-#Matt Wong
+<h1>Matt Wong</h1>
 
 ##Summary
 >ESL Teacher turned Project Manager in construction turned Web Developer, eager to start constructing web apps. Passionate about problem solving, learning, and helping others however I can. I like to balance my love for coding and video games with staying active, whether it be hiking, snowboarding or surviving an intense hot yoga session.
+
+
 
 <!-- <html>
 <head>
