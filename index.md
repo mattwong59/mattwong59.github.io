@@ -66,7 +66,7 @@ GitHub: [mattwong59](https://github.com/mattwong59)<br/>
 <h2>Education</h2>
 <p><strong>Lighthouse Labs</strong></p>
 <p>Web Development Bootcamp 2018</p>
-<p><strong>Simon Fraser University</strong</p>
+<p><strong>Simon Fraser University</strong></p>
 <p>Bachelor of Arts 2010</p>
 <p><em>Major: English Literature, Minor: Geography</em></p>
 
