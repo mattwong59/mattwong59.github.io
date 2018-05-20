@@ -5,7 +5,8 @@
 
 <h2>Contacts</h2>
 <a href= "mailto:mattwong59@gmail.com">Email: mattwong59@gmail.com</a>
-<a href= "https://www.linkedin.com/in/mattwong59/">LinkedIn: mattwong59</a>
+
+<a href= "https://www.linkedin.com/in/mattwong59/">LinkedIn: mattwong59</a><br/>
 <a href="https://github.com/mattwong59">GitHub: mattwong59</a>
 
 <h2>Projects</h2>
