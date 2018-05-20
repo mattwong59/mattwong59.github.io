@@ -11,6 +11,7 @@ LinkedIn: [mattwong59](https://www.linkedin.com/in/mattwong59/)
 GitHub: [mattwong59](https://github.com/mattwong59)
 
 <h2>Projects</h2>
+[Jungle](https://github.com/mattwong59/jungle-rails)
 <a href="https://github.com/mattwong59/jungle-rails" target="blank">Jungle</a>
 <a href="https://github.com/mattwong59/chatty-app" target="blank">Chatty App</a>
 <a href="https://github.com/mattwong59/decider_midterm" target="blank">Decider</a>
