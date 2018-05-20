@@ -4,8 +4,8 @@
 <p>ESL Teacher turned Project Manager in construction turned Web Developer, eager to start constructing web apps. Passionate about problem solving, learning, and helping others however I can. I like to balance my love for coding and video games with staying active, whether it be hiking, snowboarding or surviving an intense hot yoga session.</p>
 
 <h2>Contacts</h2>
-<a href= "mailto:mattwong59@gmail.com">Email: mattwong59@gmail.com</a>
-[Email: ](mailto:mattwong59@gmail.com "mattwong59@gmail.com")
+Email: [mattwong59@gmail.com](mailto:mattwong59@gmail.com "mattwong59@gmail.com")
+LinkedIn: [mattwong59](https://www.linkedin.com/in/mattwong59/)
 
 <a href= "https://www.linkedin.com/in/mattwong59/">LinkedIn: mattwong59</a><br/>
 <a href="https://github.com/mattwong59">GitHub: mattwong59</a>
