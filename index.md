@@ -5,10 +5,10 @@
 
 <h2>Contacts</h2>
 Email: [mattwong59@gmail.com](mailto:mattwong59@gmail.com "mattwong59@gmail.com")
+
 LinkedIn: [mattwong59](https://www.linkedin.com/in/mattwong59/)
 
-<a href= "https://www.linkedin.com/in/mattwong59/">LinkedIn: mattwong59</a><br/>
-<a href="https://github.com/mattwong59">GitHub: mattwong59</a>
+GitHub: [mattwong59](https://github.com/mattwong59)
 
 <h2>Projects</h2>
 <a href="https://github.com/mattwong59/jungle-rails" target="blank">Jungle</a>
