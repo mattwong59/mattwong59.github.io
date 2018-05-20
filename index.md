@@ -3,22 +3,18 @@
 <h2>Summary</h2>
 <p>ESL Teacher turned Project Manager in construction turned Web Developer, eager to start constructing web apps. Passionate about problem solving, learning, and helping others however I can. I like to balance my love for coding and video games with staying active, whether it be hiking, snowboarding or surviving an intense hot yoga session.</p>
 
+<h2>Contacts</h2>
+<a href= "mailto:mattwong59@gmail.com">Email: mattwong59@gmail.com</a>
+<a href= "https://www.linkedin.com/in/mattwong59/">LinkedIn: mattwong59</a>
+<a href="https://github.com/mattwong59">GitHub: mattwong59</a>
 
-
+<h2>Projects</h2>
+<a href="https://github.com/mattwong59/jungle-rails" target="blank">Jungle</a>
+<a href="https://github.com/mattwong59/chatty-app" target="blank">Chatty App</a>
+<a href="https://github.com/mattwong59/decider_midterm" target="blank">Decider</a>
+<a href="https://github.com/mattwong59/tweeter" target="blank">Tweeter</a>
+<a href="https://github.com/mattwong59/tinyApp" target="blank">Tiny App</a>
 <!-- <html>
-<head>
-    <meta charset="utf-8">
-    <title>Matt Wog</title>
-</head>
-<body>
-    <h1>Matt Wong</h1>
-</body>
-</html>
-
-    <section>
-        <h3>Summary</h3>
-        <p>ESL Teacher turned Project Manager in construction turned Web Developer, eager to start constructing web apps. Passionate about problem solving, learning, and helping others however I can. I like to balance my love for coding and video games with staying active, whether it be hiking, snowboarding or surviving an intense hot yoga session. </p>
-    </section>
 
     <section>
         <h3>Contact</h3>
