@@ -35,56 +35,47 @@ GitHub: [mattwong59](https://github.com/mattwong59)<br/>
 <h3>SOFTWARE:</h3>
 <p>Git / GitHub, Microsoft Office Suite, Google Suite</p>
 
-    <section>
+<h2>Employment</h2>
+<h4>Bianchina Interiors</h4>
+<p><strong>Project Manager</strong></p>
+<p>Feb 2016 to Feb 2018</p>
+<ul>
+    <li>Created and maintained inventory and progress records using Microsoft Office</li>
+    <li>Respectively worked in a cross functional workplace using interpersonal skills</li>
+    <li>Lead and organized a group of workers in a cross-cultural environment</li>
+</ul>
 
-        <h3>Employment</h3>
-        <h4>Bianchina Interiors</h4>
-        <h6>Project Manager</h6>
-        <p>Feb 2016 to Feb 2018</p>
-        <ul>
-            <li>Created and maintained inventory and progress records using Microsoft Office</li>
-            <li>Respectively worked in a cross functional workplace using interpersonal skills</li>
-            <li>Lead and organized a group of workers in a cross-cultural environment</li>
-        </ul>
+<h4>Study English in Canada (SEC)</h4>
+<p><strong>ESL Business Protocol Instructor</strong></p>
+<p>Jun 2015 to Jan 2016</p>
+<ul>
+    <li>Assessed the progression of individual students and relayed their development in one-on-one interviews in a professional manner</li>
+    <li>Instructed presentation skills and business protocol to adult ESL students</li>
+    <li>Effectively motivated students to take part in learning</li>
+</ul>
 
-        <h4>Study English in Canada (SEC)</h4>
-        <h6>ESL Business Protocol Instructor</h6>
-        <p>Jun 2015 to Jan 2016</p>
-        <ul>
-            <li>Assessed the progression of individual students and relayed their development in one-on-one interviews in a professional manner</li>
-            <li>Instructed presentation skills and business protocol to adult ESL students</li>
-            <li>Effectively motivated students to take part in learning</li>
-        </ul>
+<h4>Kid's College (South Korea)</h4>
+<p><strong>ESL Instructor</strong></p>
+<p>Mar 2014 to Feb 2015</p>
+<ul>
+    <li>Professional documentation of learning plans and progress</li>
+    <li>Effectively communicated to address student/parent demands, resolved high conflict situations</li>
+    <li>Developed individual plans for each student, to track and monitor their progress toward goals</li>
+</ul>
 
-        <h4>Kid's College (South Korea)</h4>
-        <h6>ESL Instructor</h6>
-        <p>Mar 2014 to Feb 2015</p>
-        <ul>
-            <li>Professional documentation of learning plans and progress</li>
-            <li>Effectively communicated to address student/parent demands, resolved high conflict situations</li>
-            <li>Developed individual plans for each student, to track and monitor their progress toward goals</li>
-        </ul>
+<h2>Education</h2>
+<p><strong>Lighthouse Labs</strong></p>
+<p>Web Development Bootcamp 2018</p>
+<p><strong>Simon Fraser University</strong</p>
+<p>Bachelor of Arts 2010</p>
+<p><em>Major: English Literature, Minor: Geography</em></p>
 
-    </section>
+<h2>Volunteering</h2>
 
-    <section>
-        <h3>Education</h3>
-        <p><strong>Lighthouse Labs</strong></p>
-        <p>Web Development Bootcamp 2018</p>
-        <p><strong>Simon Fraser University</strong</p>
-        <p>Bachelor of Arts 2010</p>
-        <p><em>Major: English Literature, Minor: Geography</em></p>
-    </section>
 
-    <section>
-        <h3>Volunteering</h3>
-    </section>
 
-    <section>
-        <h3>Certificates</h3>
-    </section>
+<h2>Certificates</h2>
 
-    <section>
-        <h3>Activities</h3>
-    </section>
- -->
+
+
+<h2>Activities</h2>
