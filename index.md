@@ -9,11 +9,16 @@ LinkedIn: [mattwong59](https://www.linkedin.com/in/mattwong59/)<br/>
 GitHub: [mattwong59](https://github.com/mattwong59)<br/>
 
 <h2>Projects</h2>
-[Jungle](https://github.com/mattwong59/jungle-rails) An e-commerce Rails app built for learning Rails through example.<br/>
-[Chatty App](https://github.com/mattwong59/chatty-app) A messaging web app that utilizes React, WebSockets, and Express.<br/>
-[Decider](https://github.com/mattwong59/decider_midterm) Decider is a web app that utilizes Node, Express, EJS, Postgresql, SASS, AJAX, Twilio, Mailgun, and Awesome-Phone Number.<br/>
-[Tweeter](https://github.com/mattwong59/tweeter) A twitter clone that utilizes HTML, CSS, JS, jQuery and AJAX on the front-end, as well as Node, Express and MongoDB on the back-end.<br/>
-[Tiny App](https://github.com/mattwong59/tinyApp) TinyApp is a full stack web application built with Node and Express that allows users to shorten URLs.
+[Jungle](https://github.com/mattwong59/jungle-rails) 
+<p>An e-commerce Rails app built for learning Rails through example.<p><br/>
+[Chatty App](https://github.com/mattwong59/chatty-app) 
+<p>A messaging web app that utilizes React, WebSockets, and Express.</p><br/>
+[Decider](https://github.com/mattwong59/decider_midterm) 
+<p>Decider is a web app that utilizes Node, Express, EJS, Postgresql, SASS, AJAX, Twilio, Mailgun, and Awesome-Phone Number.</p><br/>
+[Tweeter](https://github.com/mattwong59/tweeter) 
+<p>A twitter clone that utilizes HTML, CSS, JS, jQuery and AJAX on the front-end, as well as Node, Express and MongoDB on the back-end.</p><br/>
+[Tiny App](https://github.com/mattwong59/tinyApp) 
+<p>TinyApp is a full stack web application built with Node and Express that allows users to shorten URLs.</p>
 
     <section>
         <h3>Skills</h3>
