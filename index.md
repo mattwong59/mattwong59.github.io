@@ -25,9 +25,13 @@ GitHub: [mattwong59](https://github.com/mattwong59)<br/>
 <p>TinyApp is a full stack web application built with Node and Express that allows users to shorten URLs.</p>
 
 <h2>Skills</h2>
-| Languages        | Frameworks/Libraries           | Database/RDMS  | Software       |
-|:----------------:|:------------------------------:|:--------------:|:--------------:|
-|Javascript        | React                          | SQL            | Git/GitHub     |
+<h3>Languages</h3>
+<ul>
+    <li>Javascript</li>
+    <li>Ruby</li>
+    <li>HTML</li>
+    <li>CSS</li>
+</ul>
 
     <section>
         <h3>Skills</h3>
