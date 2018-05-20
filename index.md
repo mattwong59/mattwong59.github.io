@@ -11,8 +11,7 @@ GitHub: [mattwong59](https://github.com/mattwong59)<br/>
 <h2>Projects</h2>
 [Jungle](https://github.com/mattwong59/jungle-rails) 
 <p>An e-commerce Rails app built for learning Rails through example.<p><br/>
-
-[Chatty App](https://github.com/mattwong59/chatty-app) 
+<a href="https://github.com/mattwong59/chatty-app">Chatty App</a>
 <p>A messaging web app that utilizes React, WebSockets, and Express.</p><br/>
 
 [Decider](https://github.com/mattwong59/decider_midterm) 
