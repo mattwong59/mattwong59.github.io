@@ -12,6 +12,10 @@ GitHub: [mattwong59](https://github.com/mattwong59)
 
 <h2>Projects</h2>
 [Jungle](https://github.com/mattwong59/jungle-rails)
+[Chatty App](https://github.com/mattwong59/chatty-app)
+[Decider](https://github.com/mattwong59/decider_midterm)
+[Tweeter](https://github.com/mattwong59/tweeter)
+[Tiny App](https://github.com/mattwong59/tinyApp)
 <a href="https://github.com/mattwong59/jungle-rails" target="blank">Jungle</a>
 <a href="https://github.com/mattwong59/chatty-app" target="blank">Chatty App</a>
 <a href="https://github.com/mattwong59/decider_midterm" target="blank">Decider</a>
