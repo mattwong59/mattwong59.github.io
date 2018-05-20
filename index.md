@@ -4,34 +4,16 @@
 <p>ESL Teacher turned Project Manager in construction turned Web Developer, eager to start constructing web apps. Passionate about problem solving, learning, and helping others however I can. I like to balance my love for coding and video games with staying active, whether it be hiking, snowboarding or surviving an intense hot yoga session.</p>
 
 <h2>Contacts</h2>
-Email: [mattwong59@gmail.com](mailto:mattwong59@gmail.com "mattwong59@gmail.com")
-
-LinkedIn: [mattwong59](https://www.linkedin.com/in/mattwong59/)
-
-GitHub: [mattwong59](https://github.com/mattwong59)
+Email: [mattwong59@gmail.com](mailto:mattwong59@gmail.com "mattwong59@gmail.com")<br/>
+LinkedIn: [mattwong59](https://www.linkedin.com/in/mattwong59/)<br/>
+GitHub: [mattwong59](https://github.com/mattwong59)<br/>
 
 <h2>Projects</h2>
 [Jungle](https://github.com/mattwong59/jungle-rails) An e-commerce Rails app built for learning Rails through example.<br/>
-[Chatty App](https://github.com/mattwong59/chatty-app)
-[Decider](https://github.com/mattwong59/decider_midterm)
-[Tweeter](https://github.com/mattwong59/tweeter)
-[Tiny App](https://github.com/mattwong59/tinyApp)
-
-    <section>
-        <h3>Contact</h3>
-            <a href= "mailto:mattwong59@gmail.com">Email: mattwong59@gmail.com</a>
-            <a href= "https://www.linkedin.com/in/mattwong59/">LinkedIn: mattwong59</a>
-            <a href="https://github.com/mattwong59">GitHub: mattwong59</a>
-    </section>
-
-    <section>
-        <h3>Projects</h3>
-        <a href="https://github.com/mattwong59/jungle-rails" target="blank">Jungle</a>
-        <a href="https://github.com/mattwong59/chatty-app" target="blank">Chatty App</a>
-        <a href="https://github.com/mattwong59/decider_midterm" target="blank">Decider</a>
-        <a href="https://github.com/mattwong59/tweeter" target="blank">Tweeter</a>
-        <a href="https://github.com/mattwong59/tinyApp" target="blank">Tiny App</a>
-    </section>
+[Chatty App](https://github.com/mattwong59/chatty-app) A messaging web app that utilizes React, WebSockets, and Express.<br/>
+[Decider](https://github.com/mattwong59/decider_midterm) Decider is a web app that utilizes Node, Express, EJS, Postgresql, SASS, AJAX, Twilio, Mailgun, and Awesome-Phone Number.<br/>
+[Tweeter](https://github.com/mattwong59/tweeter) A twitter clone that utilizes HTML, CSS, JS, jQuery and AJAX on the front-end, as well as Node, Express and MongoDB on the back-end.<br/>
+[Tiny App](https://github.com/mattwong59/tinyApp) TinyApp is a full stack web application built with Node and Express that allows users to shorten URLs.
 
     <section>
         <h3>Skills</h3>
