@@ -23,26 +23,17 @@ GitHub: [mattwong59](https://github.com/mattwong59)<br/>
 <a href="https://github.com/mattwong59/tinyApp">Tiny App</a>
 <p>TinyApp is a full stack web application built with Node and Express that allows users to shorten URLs.</p>
 
-<h2>Skills</h2>
-<h3>Languages</h3>
-<ul>
-    <li>Javascript</li>
-    <li>Ruby</li>
-    <li>HTML</li>
-    <li>CSS</li>
-</ul>
 
-    <section>
-        <h3>Skills</h3>
-        <h5>LANGUAGES:</h5>
-        <p>Javascript, Ruby, HTML, CSS</p>
-        <h5>FRAMEWORKS/LIBRARIES:</h5>
-        <p>React, SASS, jQuery, Node JS, Ruby on Rails, EJS, Babel, Express, Knex, WebSockets, Ajax, Bootstrap</p>
-        <h5>DATABASE/RDMS:</h5>
-        <p>MongoDB, SQL, PSQL</p>
-        <h5>SOFTWARE:</h5>
-        <p>Git / GitHub, Microsoft Office Suite, Google Suite</p>
-    </section>
+
+<h2>Skills</h2>
+<h3>LANGUAGES:</h3>
+<p>Javascript, Ruby, HTML, CSS</p>
+<h3>FRAMEWORKS/LIBRARIES:</h3>
+<p>React, SASS, jQuery, Node JS, Ruby on Rails, EJS, Babel, Express, Knex, WebSockets, Ajax, Bootstrap</p>
+<h3>DATABASE/RDMS:</h3>
+<p>MongoDB, SQL, PSQL</p>
+<h3>SOFTWARE:</h3>
+<p>Git / GitHub, Microsoft Office Suite, Google Suite</p>
 
     <section>
 
