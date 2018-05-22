@@ -1,0 +1,9 @@
+@import "../sass/utilities/initial-variables";
+@import "../sass/utilities/functions";
+
+h2.title.has-text-dark {
+    border: 3px solid black;
+}
+
+
+@import "../bulma";
