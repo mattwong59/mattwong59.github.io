@@ -3,9 +3,50 @@ body {
     font-size: 1.5rem;
 }
 
+section.hero.is-small {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.column.is-9 {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.column.is-3 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-height: -webkit-fill-available;
+    background-color: aliceblue;
+}
+
+div.hero-body, div.hero-foot {
+    font-family: 'Julius Sans One', sans-serif;
+    background-color: aliceblue;
+    color: darkcyan;
+}
 h1.title {
-    font-family: 'Lobster Two', cursive; 
-    font-size: 6rem;
+    font-size: 5rem;
+    font-weight: 550;
+    color: darkcyan
+}
+
+h2.subtitle {
+    color: darkcyan;
+    font-size: 3rem;
+    /* font-weight: 550; */
+}
+
+.tabs.is-boxed a {
+    color: darkcyan;
+}
+
+div.has-text-centered {
+    background-color: darkcyan;
 }
 
 h2.title {
@@ -15,8 +56,18 @@ h2.title {
     margin-right: auto;
 }
 
-p {
+/* p {
     width: 67%;
     margin-left: auto;
     margin-right: auto;
-}
+} */
+
+/* section.section {
+    width: 94%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    background-color: aliceblue;
+    border-radius: 3rem;
+} */
