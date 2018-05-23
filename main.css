@@ -1,0 +1,22 @@
+body {
+    font-family: 'Heebo', sans-serif;
+    font-size: 1.5rem;
+}
+
+h1.title {
+    font-family: 'Lobster Two', cursive; 
+    font-size: 6rem;
+}
+
+h2.title {
+    border-bottom: 2px solid orange;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    width: 67%;
+    margin-left: auto;
+    margin-right: auto;
+}
