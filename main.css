@@ -63,6 +63,10 @@ a.project-title {
 .date {
     font-style: italic;
 }
+
+.contact {
+    margin-top: 3rem;
+}
 /* p {
     width: 67%;
     margin-left: auto;
