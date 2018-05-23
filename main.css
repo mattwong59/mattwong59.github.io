@@ -23,6 +23,7 @@ body {
     left: 0;
     min-height: -webkit-fill-available;
     background-color: #445C6E;
+    color:aliceblue;
 }
 
 /* div.hero-body, div.hero-foot {
@@ -44,9 +45,14 @@ h2.subtitle {
 }
 
 h2.title {
-    border-bottom: 2px solid #36CEC7
-    ;
+    border-bottom: 2px solid #36CEC7;
     color: #445C6E;
+}
+
+h2.title.skills {
+    border-bottom: 2px solid aliceblue;
+    color: #36CEC7;
+    margin-top: 2rem;
 }
 
 a {
