@@ -4,27 +4,29 @@ body {
     color: #445C6E;
 }
 
-/* section.hero.is-small {
-    position: fixed;
+/* section.hero.is-primary.is-small {
+    position: sticky;
     top: 0;
     left: 0;
     z-index: 1;
 } */
 
-.column.is-9 {
+
+
+/* .column.is-9 {
     position: absolute;
     top: 0;
     right: 0;
-}
+} */
 
-.column.is-3 {
+/* .column.is-3 {
     position: fixed;
     top: 0;
     left: 0;
     min-height: -webkit-fill-available;
     background-color: #445C6E;
     color:aliceblue;
-}
+} */
 
 /* div.hero-body, div.hero-foot {
     font-family: 'Julius Sans One', sans-serif;
@@ -56,7 +58,7 @@ h2.title.skills {
 }
 
 a {
-    color: aliceblue;
+    color: black;
 }
 a:hover, a.project-title:hover {
     color: #36CEC7;
@@ -72,6 +74,14 @@ a.project-title {
 
 .contact {
     margin-top: 3rem;
+}
+
+.image {
+    transition:  .2s ease-in-out;
+}
+
+.image:hover {
+    transform: scale(1.5);
 }
 /* p {
     width: 67%;
