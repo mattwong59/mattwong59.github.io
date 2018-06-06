@@ -11,9 +11,9 @@ class Projects extends React.Component {
                 <div className="tile is-parent">
                     <a href="https://github.com/mattwong59/Beer-Cat-Tourism-App" target="_blank" rel="noopener noreferrer" className="project-title is-size-4">
                         <figure className="image is-256x256">
-                            <img src={require("./docs/beer-cat-tours.png")} alt="Screenshot of beer cat tours page."/>
+                            <img src={require("./docs/beer-cat-browser-frame.png")} alt="Screenshot of beer cat tours page."/>
                             Beer Cat Tourism App
-                            <p className="is-size-6">Tools: React, Ruby on Rails, HTML, CSS</p>
+                            <p className="is-size-5">React, Ruby on Rails, HTML, CSS</p>
                         </figure>
                     </a> 
                 </div>
@@ -22,16 +22,16 @@ class Projects extends React.Component {
                         <figure className="image is-256x256">
                             <img src={require("./docs/chatty-2users.png")} alt="Screenshot of chatty with 2 users sending messages."/>
                             Chatty App
-                            <p className="is-size-6">Tools: React, WebSockets, Express, CSS</p>
+                            <p className="is-size-5">React, WebSockets, Express, CSS</p>
                         </figure>
                     </a> 
                 </div>
                 <div className="tile is-parent">
                     <a href="https://github.com/mattwong59/decider_midterm" target="_blank" rel="noopener noreferrer" className="project-title is-size-4">
                         <figure className="image is-256x256">
-                            <img src={require("./docs/decider-home-page.png")} alt="Screenshot of decider home page."/>
+                            <img src={require("./docs/decider-poll-browser-frame.png")} alt="Screenshot of decider home page."/>
                             Decider
-                            <p className="is-size-6">Tools: Node, Express, EJS, PSQL, SASS, AJAX.</p>
+                            <p className="is-size-5">Node, Express, EJS, PSQL, SASS, AJAX.</p>
                         </figure>
                     </a> 
                 </div>
@@ -43,25 +43,25 @@ class Projects extends React.Component {
                         <figure className="image is-256x256">    
                             <img src={require("./docs/product-page.png")} alt="Screenshot of jungle's product page."/>
                             Jungle   
-                            <p className="is-size-6">Tools: Ruby on Rails, Ruby</p>         
+                            <p className="is-size-5">Ruby on Rails, Ruby</p>         
                         </figure>
                     </a>
                 </div>
                     <div className="tile is-parent">
                     <figure className="image is-256x256">
                         <a href="https://github.com/mattwong59/tweeter" target="_blank" rel="noopener noreferrer" className="project-title is-size-4">
-                            <img src={require("./docs/tweeterHomePage.png")} alt="Screenshot of tweeter home page"/>
+                            <img src={require("./docs/tweeter-browser-frame.png")} alt="Screenshot of tweeter home page"/>
                             Tweeter
-                            <p className="is-size-6">Tools: HTML, CSS, JS, jQuery, AJAX, Node, Express, MongoDB</p>         
+                            <p className="is-size-5">HTML, CSS, JS, jQuery, AJAX, Node, Express, MongoDB</p>         
                         </a>
                     </figure>
                     </div>
                     <div className="tile is-parent">
                     <figure className="image is-256x256">
                         <a href="https://github.com/mattwong59/tinyApp" target="_blank" rel="noopener noreferrer" className="project-title is-size-4">
-                            <img src={require("./docs/Tiny-App-URLS.png")} alt="Screenshot of tiny app urls page."/>
+                            <img src={require("./docs/tiny-app-browser-frame.png")} alt="Screenshot of tiny app urls page."/>
                             Tiny App
-                            <p className="is-size-6">Tools: Node, Express</p>         
+                            <p className="is-size-5">Node, Express</p>         
                         </a>
                     </figure>
                 </div>

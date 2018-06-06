@@ -63,7 +63,7 @@ class Footer extends Component {
                     </ul>
                 </div>
             </section>
-            <h3 className="has-text-centered is-size-4">Created by Matt Wong</h3>
+            <h3 className="has-text-centered is-size-6">Created by Matt Wong</h3>
 
         </footer>
     )

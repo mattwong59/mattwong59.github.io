@@ -22,7 +22,7 @@ class Miscellaneous extends Component {
                             <div>
                                 <h4 className="is-size-5"><a href="https://www.lighthouselabs.ca/web-bootcamp" className="project-title is-size-5">Lighthouse Labs</a></h4>
                                 <p className="date">May 2018</p>
-                                <p>Web Development Bootcamp</p>
+                                <p>Diploma of Web Development</p>
                             </div>
                             <br/>
                             <h4 className="is-size-5">Simon Fraser University</h4>
@@ -67,6 +67,7 @@ class Miscellaneous extends Component {
                             <h2 className="title is-size-4">Activities</h2>
                             <h4 className="is-size-5">Running</h4>
                             <p>I approach web development with the dedication, work ethic and self-motivation I gain from running half-marathons.</p>
+                            <br/>
                             <h4 className="is-size-5">Traveling</h4>
                             <p>I love getting out there, seeing the world, and experiencing new cultures. I think people can learn so much by exposing themselves to new and different environments and ideas</p>
                         </div>
