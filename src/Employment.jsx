@@ -10,6 +10,24 @@ class Employment extends Component {
           <h1 className="has-text-centered is-size-2">Employment</h1>
           <div className="container is-centered has-text-centered">
             <div className="tile is-ancestor jobs">
+            <div className="tile is-parent">
+                <div className= "container is-fluid">
+                  <h4 className="is-size-5">Ipsos</h4>
+                  <p className="has-text-weight-semibold">Junior Developer</p>
+                  <p className="date">Aug 2018 to Present</p>
+                  <ul className="job-duties">
+                    <li>Optimize & develop procedures part of the data warehouse to   improve users' experience
+                    </li>
+                    <li>Contribute to the planning, development, testing of new features/reports</li>
+                    <li>Convert approved specs to reports using HTML, CSS, & SQL</li>
+                    <li>Adopt/refine the team's workflow & clearly document work</li>
+                    <li>Create daily performance alert emails</li> 
+                  </ul>
+                </div>
+              </div>
+
+
+
               <div className="tile is-parent">
                 <div className= "container is-fluid">
                   <h4 className="is-size-5">Bianchina Interiors</h4>
@@ -22,7 +40,10 @@ class Employment extends Component {
                   </ul>
                 </div>
               </div>
-              <div className="tile is-parent">
+            </div>
+            
+            <div className="tile is-ancestor jobs">
+            <div className="tile is-parent">
                 <div className= "container is-fluid">
                   <h4 className="is-size-5">Study English in Canada (SEC)</h4>
                   <p className="has-text-weight-semibold">ESL Business Protocol Instructor</p>
@@ -34,9 +55,6 @@ class Employment extends Component {
                   </ul>
                 </div>
               </div>
-            </div>
-            
-            <div className="tile is-ancestor jobs">
               <div className="tile is-parent">
                 <div className= "container is-fluid">
                   <h4 className="is-size-5">Kid's College (South Korea)</h4>
@@ -49,7 +67,7 @@ class Employment extends Component {
                   </ul>
                 </div>
               </div>
-              <div className="tile is-parent">
+              {/* <div className="tile is-parent">
                 <div className= "container is-fluid">
                   <h4 className="is-size-5">King George International College (KGIC)</h4>
                   <p className="has-text-weight-semibold">ESL Instructor</p>
@@ -60,7 +78,7 @@ class Employment extends Component {
                     <li>Collaborated with co-workers to build a positive learning environment</li>
                   </ul>
                 </div>  
-              </div>
+              </div> */}
             </div>
           </div>
         </section>
