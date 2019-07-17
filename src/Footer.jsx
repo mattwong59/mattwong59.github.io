@@ -55,7 +55,7 @@ class Footer extends Component {
                         </div>
                     </form>
                 </div>
-                <div className=" container">
+                <div className="container">
                     <ul className="bottom-nav">
                          <li><a className="nav-link" href="#projects">Projects</a></li>
                         <li><a className="nav-link" href="#employment">Employment</a></li>
