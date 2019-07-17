@@ -1,12 +1,12 @@
 {
   "main.css": "static/css/main.5d48779d.css",
   "main.css.map": "static/css/main.5d48779d.css.map",
-  "main.js": "static/js/main.aef8472c.js",
-  "main.js.map": "static/js/main.aef8472c.js.map",
-  "static/media/Tiny-App-URLS.png": "static/media/Tiny-App-URLS.84d04b20.png",
-  "static/media/beer-cat-tours.png": "static/media/beer-cat-tours.d097d883.png",
+  "main.js": "static/js/main.215a25e1.js",
+  "main.js.map": "static/js/main.215a25e1.js.map",
+  "static/media/beer-cat-browser-frame.png": "static/media/beer-cat-browser-frame.635ec8f0.png",
   "static/media/chatty-2users.png": "static/media/chatty-2users.787a3d5c.png",
-  "static/media/decider-home-page.png": "static/media/decider-home-page.c6d6cfbf.png",
+  "static/media/decider-poll-browser-frame.png": "static/media/decider-poll-browser-frame.91662d87.png",
   "static/media/product-page.png": "static/media/product-page.0c103556.png",
-  "static/media/tweeterHomePage.png": "static/media/tweeterHomePage.d65020af.png"
+  "static/media/tiny-app-browser-frame.png": "static/media/tiny-app-browser-frame.20066d56.png",
+  "static/media/tweeter-browser-frame.png": "static/media/tweeter-browser-frame.41bad58b.png"
 }
