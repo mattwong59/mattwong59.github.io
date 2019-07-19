@@ -78,7 +78,7 @@ h3 {
   color: #118C79;
 }
 
-.columns{
+/* .columns{
   justify-content: center;
 }
 
@@ -86,7 +86,7 @@ h3 {
   max-width: max-content;
   padding-right: 2rem;
   padding-left: 2rem;
-}
+} */
 
 img {
   margin-bottom: 0.75rem;
@@ -163,11 +163,11 @@ textarea.textarea {
   width: 40rem;
 }
 
-.section.contact {
+/* .section.contact {
   display: flex;
   justify-content: space-evenly;
   padding-top: 1rem;
-}
+} */
 
 .bottom-nav {
   text-align: right;
@@ -177,5 +177,12 @@ textarea.textarea {
   font-size: 1.25rem;
 }
 
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
 
+.margin-top {
+  margin-top: 2rem;
+}
 
