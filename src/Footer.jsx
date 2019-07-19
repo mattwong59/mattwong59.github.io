@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import './App.css';
 
+// !NEED TO FIX RESPONSIVENESS ON MOBILE
+
 class Footer extends Component {
   render() {
     return (
