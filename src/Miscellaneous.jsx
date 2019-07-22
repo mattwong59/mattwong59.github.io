@@ -5,7 +5,10 @@ class Miscellaneous extends Component {
     render() {
       return (
         <section id="about" className="section dark"> 
-            <h1 className="has-text-centered is-size-2 dark">More Fun Facts</h1> 
+            <div className="has-text-centered is-size-2 dark  ">
+                <h1>More Fun Facts</h1> 
+            </div>
+            
             <div className="container">
                 <div className="tile is-ancestor">
                     <div className="tile is-parent">

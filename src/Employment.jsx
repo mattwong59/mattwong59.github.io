@@ -7,7 +7,10 @@ class Employment extends Component {
     render() {
       return (
         <section id="employment" className="section">
-          <h1 className="has-text-centered is-size-2">Employment</h1>
+          <div className="has-text-centered is-size-2">
+            <h1 className="has-text-centered is-size-2">Employment</h1>
+          </div>
+          
           <div className="container is-centered has-text-centered">
             <div className="tile is-ancestor jobs">
             <div className="tile is-parent">
