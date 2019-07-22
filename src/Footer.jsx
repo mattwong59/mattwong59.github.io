@@ -8,32 +8,34 @@ class Footer extends Component {
     return (
         <footer className="footer">
             <div className="container has-text-centered">
-              <a className= "margin-left" href="https://www.linkedin.com/in/mattwong59" target="_blank">
-                <span className="icon">
-                    <i className="fas fa-2x fab fa-linkedin"></i>
-                </span>
-                <span className="has-text-weight-bold is-size-6"></span>
-            </a>
+                <div className="icon-set">
 
-            <a className= "margin-left" href="https://github.com/mattwong59" target="_blank">
-                <span className="icon">
+            <span className="icon">  
+                <a href="https://www.linkedin.com/in/mattwong59" target="_blank">
+                <i className="fas fa-2x fab fa-linkedin"></i>
+                <span className="has-text-weight-bold is-size-6"></span>
+                </a>
+            </span>
+
+            <span className="icon icon-padding">
+                <a href="https://github.com/mattwong59" target="_blank">
                     <i className="fas fa-2x fab fa-github"></i>
-                </span>
-                <span className="has-text-weight-bold is-size-6"></span>
-            </a>
+                    <span className="has-text-weight-bold is-size-6"></span>
+                </a>
+            </span>
 
-            <a className= "margin-left" href="mailto:mattwong59@gmail.com?Subject=Hi%20Matt" target="_blank">
-                <span className="icon">
-                    <i class="fas fa-2x fa-envelope"></i>
-                </span>
+            <span className="icon">
+                <a href="mailto:mattwong59@gmail.com?Subject=Hi%20Matt" target="_blank">
+                <i class="fas fa-2x fa-envelope"></i>
                 <span className="has-text-weight-bold is-size-6"> </span> 
-            </a>
-
-            <div>
-                <h3 className="is-size-6 margin-top">
-                    Created by Matt Wong
-                </h3>
+                </a>
+            </span>
             </div>
+
+            <h3 className="is-size-6 margin-top">
+                Created by Matt Wong
+            </h3>
+
                             
             {/* <div className="columns is-mobile">
                 <div className="column">
