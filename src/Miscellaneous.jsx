@@ -12,8 +12,8 @@ class Miscellaneous extends Component {
                         <div className="container is-fluid">
                             <h2 className="title is-size-4">Certificates</h2>
                             <h4 className="is-size-5">Canadian Red Cross</h4>
-                            <p>BC Workplace Emergency First Aid OFA Level 1 CPR Level A</p>
-                            <p className="date">Mar 2016 - Mar 2019</p>
+                            <p>Emergency First Aid for Industry (OFA Level 1 Equivalent, Level A CPR/AED)</p>
+                            <p className="date">Mar 2019 - Mar 2022</p>
                         </div>
                     </div>
                     <div className="tile is-parent">
