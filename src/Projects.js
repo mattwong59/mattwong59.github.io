@@ -18,7 +18,7 @@ class Projects extends React.Component {
             >
               <figure className="image is-256x256">
                 <img
-                  src={require("./docs/beer-cat-browser-frame.png")}
+                  src={require("./docs/beercat-pub-pounce.png")}
                   alt="Screenshot of beer cat tours page."
                 />
                 Beer Cat Tourism App
@@ -36,7 +36,7 @@ class Projects extends React.Component {
             >
               <figure className="image is-256x256">
                 <img
-                  src={require("./docs/chatty-2users.png")}
+                  src={require("./docs/chatty-two-users.png")}
                   alt="Screenshot of chatty with 2 users sending messages."
                 />
                 Chatty App
@@ -54,7 +54,7 @@ class Projects extends React.Component {
             >
               <figure className="image is-256x256">
                 <img
-                  src={require("./docs/decider-poll-browser-frame.png")}
+                  src={require("./docs/decider.png")}
                   alt="Screenshot of decider home page."
                 />
                 Decider
@@ -76,7 +76,7 @@ class Projects extends React.Component {
             >
               <figure className="image is-256x256">
                 <img
-                  src={require("./docs/product-page.png")}
+                  src={require("./docs/jungle-resize.png")}
                   alt="Screenshot of jungle's product page."
                 />
                 Jungle
@@ -94,7 +94,7 @@ class Projects extends React.Component {
                 className="project-title is-size-4 tile is-child"
               >
                 <img
-                  src={require("./docs/tweeter-browser-frame.png")}
+                  src={require("./docs/tweeter-restyle.png")}
                   alt="Screenshot of tweeter home page"
                 />
                 Tweeter
@@ -114,7 +114,7 @@ class Projects extends React.Component {
                 className="project-title is-size-4 tile is-child"
               >
                 <img
-                  src={require("./docs/tiny-app-browser-frame.png")}
+                  src={require("./docs/Tiny-App-URLS.png")}
                   alt="Screenshot of tiny app urls page."
                 />
                 Tiny App

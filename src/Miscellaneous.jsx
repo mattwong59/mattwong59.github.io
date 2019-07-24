@@ -75,7 +75,6 @@ class Miscellaneous extends Component {
                             <p>I love getting out there, seeing the world, and experiencing new cultures. I think people can learn so much by exposing themselves to new and different environments and ideas</p>
                         </div>
                     </div>
-
                 </div>
             </div>
         </section>        

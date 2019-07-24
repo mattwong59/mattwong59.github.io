@@ -82,16 +82,6 @@ div.tile.is-ancestor {
   margin-bottom: 0.75rem;
 }
 
-/* .columns{
-  justify-content: center;
-}
-
-.column {
-  max-width: max-content;
-  padding-right: 2rem;
-  padding-left: 2rem;
-} */
-
 img {
   margin-bottom: 0.75rem;
 }
@@ -129,11 +119,6 @@ a:hover {
   color: #F0ECEC;
 }
 
-/* .highlight {
-  background-color: #8C5D7E;
-  padding: 1.25rem;
-} */
-
 .tile.is-ancestor.jobs {
   color: #1B4083;;
 }
@@ -166,12 +151,6 @@ ul.job-duties {
 textarea.textarea {
   width: 40rem;
 }
-
-/* .section.contact {
-  display: flex;
-  justify-content: space-evenly;
-  padding-top: 1rem;
-} */
 
 .bottom-nav {
   text-align: right;
