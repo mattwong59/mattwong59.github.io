@@ -30,12 +30,14 @@ class Footer extends Component {
                 <h3 className="is-size-6 margin-top">
                     Created by Matt Wong
                 </h3>
+                
 
-        {/* BULMA CRED */}
-                {/* <a href="https://bulma.io">
+            {/* BULMA CRED */}
+                    
+                {/* <a  href="https://bulma.io">
                     <img src="https://bulma.io/images/made-with-bulma--black.png" alt="Made with Bulma" width="128" height="24"/>
                 </a> */}
-            </div>
+            </div>                
         </footer>
     )
   }
